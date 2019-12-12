@@ -1,0 +1,21 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "API de Restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongoose": "5.8.0",
+    "restify": "^8.5.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "5.5.34",
+    "@types/restify": "8.4.2"
+  }
+}
